@@ -27,3 +27,7 @@ The project was motivated by the need to understand what factors most contribute
 
 ## Acknowledgements
 We would like to thank the open-source libraries and tools (pandas, XGBoost, scikit-learn) that made this project possible. Special thanks to kaggle  that provided the data used for the analysis.
+
+## Links 
+URL of the GitHub repo : https://github.com/ray1stsa/DataSciencePortfolio/tree/main
+Medium Post : https://medium.com/@rayanalshehri81/what-drives-game-success-2ba2792dd5d9
